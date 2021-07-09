@@ -14,7 +14,7 @@ py newMain.py
 
 Python3
 
-##Usage
+## Usage
 1. Open newMain.py and change the source folder and destination folder to which folders you'd like to use
 
 ### How it works
