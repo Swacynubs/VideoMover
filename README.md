@@ -15,7 +15,7 @@ py newMain.py
 Python3
 
 ## Usage
-1. Open newMain.py and change the source folder and destination folder to which folders you'd like to use
+1. Open newMain.py and change the source folder and destination folder variables to which folders you'd like to use
 
 ### How it works
 
@@ -26,9 +26,8 @@ If it finds a mp4 file it will move it over to the destination you have
 + Option to copy folders not just files
 + More video file support
 + UI for ease of use
-+ Option 
 + More data about the file it is moving
-+ Option to over right if the file is already in the destination folder
++ Option to overwrite if the file is already in the destination folder
 
 #### Known Bugs
 + The program will not delete the original folder once it moves file
